@@ -3,7 +3,7 @@
 Summary:	Add a simple mapping and GIS .shp and raster support in Octave
 Name:		octave-mapping
 Version:	1.4.2
-Release:	6
+Release:	7
 License:	GPLv3+
 Group:		Sciences/Mathematics
 Url:		https://packages.octave.org/mapping/
